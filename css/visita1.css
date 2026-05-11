@@ -110,3 +110,11 @@ h1{
     font-size: 25px;
     color: #ffffff;
 }
+
+.frase{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    color: #157e9e;
+    text-align: center;
+    margin: 15px ;
+}
